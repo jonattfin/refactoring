@@ -1,4 +1,4 @@
-import { MallardDuck, RedheadDuck, RubberDuck } from "./v1";
+import { MallardDuck, RedheadDuck, RubberDuck } from "./v11";
 
 describe("Testing ducks", () => {
   it("MallardDuck should work properly", () => {

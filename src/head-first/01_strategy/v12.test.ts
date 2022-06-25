@@ -1,4 +1,4 @@
-import { FlyRocketPowered, MallardDuck, ModelDuck } from "./v2";
+import { FlyRocketPowered, MallardDuck, ModelDuck } from "./v12";
 
 describe("Testing ducks", () => {
   it("MallardDuck should work properly", () => {
