@@ -1,5 +1,3 @@
-import { basename } from "path";
-
 export class ApplianceControl {
   on(): void {
     console.log("on...");
